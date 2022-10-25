@@ -40,7 +40,7 @@ school**.
 
 </p>
 
-## Performance at the moment
+## Performance at a glance
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kcvijay"/>
 
