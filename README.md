@@ -2,7 +2,7 @@
 
 ## I am currently studying Fullstack Web Developer Program in React & Node.
 
-I am looking forward to collaborate in junior-level web developer work-placements.
+### I am looking forward to collaborate in junior-level web developer work-placements.
 
 My GitHub profile contains **projects made while self-study and made in
 school**.
