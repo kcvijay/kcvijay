@@ -6,7 +6,7 @@
 ### Looking forward to collaborate in junior-level web developer work-placements.
 
 
-GitHub Repos contain **projects made while self-study and made in
+Repos contain **projects made while self-study and made in
 school**.
 
 - You can reach me by email: vj.kc2007@gmail.com
