@@ -12,6 +12,8 @@ school**.
 - You can reach me by email: vj.kc2007@gmail.com
 - Portfolio Website: https://kcvijay.netlify.app
 
+![](https://komarev.com/ghpvc/?username=kcvijay&color=blue)
+
 ## I work in
 
 <p>  
