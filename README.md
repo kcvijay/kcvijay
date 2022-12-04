@@ -3,10 +3,10 @@
 ## I am currently studying Fullstack Web Developer Program in React & Node.
 
 
-### Looking forward to collaborate in junior-level web developer work-placements.
+### Looking forward to collaborate in entry-level web developer work-placements.
 
 
-Repos contain **projects made while self-study and made in
+Repos may contain **projects made while self-study and made in
 school**.
 
 - You can reach me by email: vj.kc2007@gmail.com
