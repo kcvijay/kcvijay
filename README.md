@@ -9,7 +9,7 @@
 Repos may contain **projects made while self-study and made in
 school**.
 
-📩 vj.kc2007@gmail.com
+📩 vj.kc2007@gmail.com.   
 🖥️ https://kcvijay.vercel.app
 
 ![](https://komarev.com/ghpvc/?username=kcvijay&color=blue)
