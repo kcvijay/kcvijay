@@ -1,27 +1,16 @@
-# Hello and Namaste, I am Vijay K.C.
+# Vijay KC
+Full-stack web developer
 
-### 🧑🏻‍💻 Full-stack web developer specializing in React.js, Next.js 13, Node.js, Express.js, and MongoDB.
-
-### 🎓 Studied Full-stack Web Developer Program (React & Node) from Business College Helsinki.
-
-### 💼 Currently working as Fullstack Web Developer Trainee in Unelma Platforms.
-
-**View my projects at**
+**Projects are viewable @**
 🖥️ https://kcvijay.com
-
-**Contact me at**
-📩 contact@kcvijay.com  
-
 
 ![](https://komarev.com/ghpvc/?username=kcvijay&color=blue)
 
 ### ⌨️ Current Tech-stack
-
-1. HTML5, CSS3, Tailwind CSS, Bootstrap
-2. TypeScript, JavaScript
-3. React.js, Next.js 13
-4. Node.js, Express.js
-5. MongoDB, Google Firebase
+1. React, Next, Remix
+2. Node
+3. MongoDB, Postgres
+4. AWS
 
 ### Performance at a glance
 
