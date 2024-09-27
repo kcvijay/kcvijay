@@ -1,5 +1,5 @@
 # Hi there, I'm Vijay KC
-![vijay kc information card](https://github.com/user-attachments/assets/40411ad7-093d-46a4-8388-6f6dc5550166)
+![FULL STACK](https://github.com/user-attachments/assets/552378c8-b5e7-4509-b62a-8135082cc3be)
 
 ### Tech-stack
 1. React, Next, Remix
