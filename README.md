@@ -1,7 +1,5 @@
-# Vijay KC
-Full-stack web developer
-
-Portfolio: https://kcvijay.com
+# Hi there, I'm Vijay KC
+![vijay kc information card](https://github.com/user-attachments/assets/40411ad7-093d-46a4-8388-6f6dc5550166)
 
 ### Tech-stack
 1. React, Next, Remix
