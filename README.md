@@ -1,7 +1,6 @@
 # Hi there, I'm Vijay KC
 ![FULL STACK](https://github.com/user-attachments/assets/552378c8-b5e7-4509-b62a-8135082cc3be)
 
-## Most written in
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kcvijay&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Project: Find Companies
