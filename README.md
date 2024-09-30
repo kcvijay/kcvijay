@@ -3,6 +3,8 @@
 
 Hi there, I am Vijay K.C, full stack web developer by profession and full-time husband and a dad. I am a dedicated and motivated web developer with the collective experiences from the trainig, self-learning and from the work as a web developer.
 
+Filled with both immense interest in UI/UX and business logics run in background, my ultimate goal is to master various programming languages to run full stack web applications in multiple variations. 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kcvijay&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## <a href="https://find-companies.vercel.app" target="_blank">Project: Find Companies</a>  
