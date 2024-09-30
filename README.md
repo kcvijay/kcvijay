@@ -1,5 +1,7 @@
-# Hi there, I'm Vijay KC
-![profile-card](https://github.com/user-attachments/assets/b1a4e93b-70da-40bc-ad5b-457798ea818f)
+# Hi there,
+![profile-card](https://github.com/user-attachments/assets/b1a4e93b-70da-40bc-ad5b-457798ea818f)  
+
+Hi there, I am Vijay K.C, full stack web developer by profession and full-time husband and a dad. I am a dedicated and motivated web developer with the collective experiences from the trainig, self-learning and from the work as a web developer.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kcvijay&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
