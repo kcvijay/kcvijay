@@ -1,5 +1,5 @@
 # Hi there, I'm Vijay KC
-![FULL STACK](https://github.com/user-attachments/assets/552378c8-b5e7-4509-b62a-8135082cc3be)
+![profile-card](https://github.com/user-attachments/assets/b1a4e93b-70da-40bc-ad5b-457798ea818f)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kcvijay&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
