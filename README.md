@@ -1,9 +1,7 @@
 # Hi there,
-![profile-card](https://github.com/user-attachments/assets/b1a4e93b-70da-40bc-ad5b-457798ea818f)  
+![vijay_profile_banner](https://github.com/user-attachments/assets/0a6d6cef-6b96-49c2-b5c8-34aada05717c)
 
-Hi there, I am Vijay K.C, full stack web developer by profession and full-time husband and a dad. I am a dedicated and motivated web developer with the collective experiences from the trainig, self-learning and from the work as a web developer.
-
-Filled with both immense interest in UI/UX and business logics run in background, my ultimate goal is to master various programming languages to run full stack web applications in multiple variations. 
+Hi there! I'm Vijay, a passionate Full-stack Web Developer with a strong focus on TypeScript-based frontend and backend technologies. Over the years, I've sharpened my skills through, vigorious self learning, hands-on training and internships at IT companies. I'm experienced in building and maintaining projects using React, Remix, Next.js, and various serverless architectures. I'm driven by a desire to create scalable, clean, and efficient code, and I'm continuously learning and adapting to new technologies currently, Python. Realizing that learning programming from school-age is a new necessity, one of my goals is to share my knowledge on programming and contribute to the growth of the tech community, especially in my home country. Let's connect and build something amazing together! 🚀
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kcvijay&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
